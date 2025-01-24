@@ -1,0 +1,44 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color:rgb(219, 244, 244);
+    display: flex;
+    flex-direction: column;
+    height:100svh;
+    border:2px solid rgb(67, 50, 50);
+    justify-content:space-between;
+}
+
+img{
+    margin:0 50%;
+}
+
+.image{
+    margin:0 50%;
+}
+nav{
+    display:flex;
+    width:100%;
+    justify-content:space-between;
+    background-color: rgb(68, 144, 180);
+}
+.project{
+    display:flex;
+    justify-content:space-between;
+}
+
+h2{
+    color:rgb(23, 181, 196);
+}
+
+h3{
+    color:rgb(23, 181, 196);
+}
+
+footer{
+    display:flex;
+    justify-content:space-between;
+}
